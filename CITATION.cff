@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+
+title: "Landscape Connectivity Analysis Pipelines"
+version: "1.0.0"
+
+authors:
+  - family-names: "Prasetya"
+    given-names: "Audrey M."
+    orcid: "https://orcid.org/0000-0001-7759-0692"
+
+  - family-names: "Lechner"
+    given-names: "Alex M."
+    orcid: "https://orcid.org/0000-0003-2050-9480"
+
+repository-code: "https://github.com/goaudreymp/landscape-connectivity-pipelines"
+abstract: "A collection of automated pipelines for landscape connectivity analysis using Graphab, Circuitscape, and related tools."
