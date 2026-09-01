@@ -1,4 +1,5 @@
 # landscape-connectivity-pipelines
+[![DOI](https://zenodo.org/badge/1348549642.svg)](https://doi.org/10.5281/zenodo.22235521)
 A collection of automated pipelines for landscape connectivity analysis using Graphab, Circuitscape, and related tools. The landscape connectivity framework is adapted from [Lechner et al. 2015](https://doi.org/10.1016/j.landurbplan.2015.04.008).
 
 ## **Technical Requirements**
@@ -27,7 +28,7 @@ This pipeline can automate doing runs of "max pathway lengths". Resulting pathwa
 ## **Citing this repository**
 ##### *When using any of the Graphab pipelines please cite:*
 
-Prasetya, A.M., Lechner, A. (2026) Various automated pipelines for landscape connectivity analysis.
+Prasetya, A.M., Lechner, A. (2026) Various automated pipelines for landscape connectivity analysis. https://doi.org/10.5281/zenodo.22235521
 
 Foltête, J., Clauzel, C., Vuidel., G. (2012) A software tool dedicated to the modelling of landscape networks. *Environmental Modelling & Software* 38, 316-327.  https://doi.org/10.1016/j.envsoft.2012.07.002
 
