@@ -1,5 +1,6 @@
 # landscape-connectivity-pipelines
 [![DOI](https://zenodo.org/badge/1348549642.svg)](https://doi.org/10.5281/zenodo.22235521)
+
 A collection of automated pipelines for landscape connectivity analysis using Graphab, Circuitscape, and related tools. The landscape connectivity framework is adapted from [Lechner et al. 2015](https://doi.org/10.1016/j.landurbplan.2015.04.008).
 
 ## **Technical Requirements**
