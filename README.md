@@ -13,7 +13,7 @@ A collection of automated pipelines for landscape connectivity analysis using Gr
 - [**Omniscape**](https://docs.circuitscape.org/Omniscape.jl/latest/)
 
 ## **Types of Analysis**
-A detailed step-by-step guide for each pipeline is available in the Guides folder (in prep).
+A detailed step-by-step guide for each pipeline is available [here.](Protocol/Protocol.md)
 
 ### **1. GraphabR_paramloop - Basic Graphab Parameter Loop**
 This automated pipeline loops across a set of habitat x resistance raster combinations across specified parameters. The combination of raster and parameters is manually added into a table.
