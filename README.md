@@ -16,24 +16,21 @@ A collection of automated pipelines for landscape connectivity analysis using Gr
 A detailed step-by-step guide for each pipeline is available in the Guides folder (in prep).
 
 ### **1. GraphabR_paramloop - Basic Graphab Parameter Loop**
-This automated pipeline loops across a set of habitat x resistance raster combinations across specified parameters. The combination of raster and parameters are manually added into a table.
+This automated pipeline loops across a set of habitat x resistance raster combinations across specified parameters. The combination of raster and parameters is manually added into a table.
 
 ### **2. GraphabR_MAXconv - Pathway + Habitat Conversion Scenario Loop**
-This pipeline can automate doing runs of "max pathway lengths". Resulting pathways and patches can then be used to run through various conversion scenarios. For details on the methodology of this pipeline, see ...
+This pipeline can automate runs of "max pathway lengths". Resulting pathways and patches can then be used to run through various conversion scenarios. For details on the methodology of this pipeline, see ...
 
-### **3. GraphabR_free - Parameter Space Loop (*In Progress*)**
+### **3. GraphabR_free - Parameter Space Loop**
+An adapted form of the paramloop, where instead of set parameter combinations, we generate relevant parameter combinations from landscape-specific boundaries. More detailed explanation of the exact steps and outputs can be found in [Protocol](Protocol/Protocol.md)
 
-### **4. Omniscape_loop (*In Progress*)**
-
+### **4. Omniscape_loop**
+Automated pipeline to loop through a series of defined raster inputs and run them through Omniscape.jl.
 
 ## **Citing this repository**
-##### *When using any of the Graphab pipelines please cite:*
+##### *When using any of the pipelines in the repository, in addition to citing Graphab/graph4lg/Omniscape, please cite:*
 
 Prasetya, A.M., Lechner, A. (2026) Various automated pipelines for landscape connectivity analysis. https://doi.org/10.5281/zenodo.22235521
-
-Foltête, J., Clauzel, C., Vuidel., G. (2012) A software tool dedicated to the modelling of landscape networks. *Environmental Modelling & Software* 38, 316-327.  https://doi.org/10.1016/j.envsoft.2012.07.002
-
-Savary, P., Foltête, J., Moal, H., Vuidel., G., Garnier, S. (2021) graph4lg: A package for constructing and analysing graphs for landscape genetics in R. *Methods in Ecology and Evolution* 12, 539-547. https://doi.org/10.1111/2041-210X.13530
 
 ##### *When using the pathway + habitat Conversion Scenario Loop please cite:*
 *(in prep)*
